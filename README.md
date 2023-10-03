@@ -15,20 +15,21 @@ The first task is to review the data quality to ensure that it is ready for anal
 
 The company gave a data quality framework table that is used as criteria and dimensions that is considered in ensuring data quality. The table wants to check for the data's accuracy, compeleteness, consistency, currency, relevancy, validity and uniqueness.
 
-
+Task 2 - Data Insights
 The second task is using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
 
 In building this recommendation, we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration, Model Development and Interpretation.
 
 Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off. Advise what steps you would take.
 
+
 Task 3 - Data Insights and Presentation
 The third task is developing a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance). Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.
 
 It is important to keep in mind the business context when presenting the findings:
 
-What are the trends in the underlying data?
-Which customer segment has the highest customer value?
-What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
-What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+*What are the trends in the underlying data?
+*Which customer segment has the highest customer value?
+*What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+*What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 Specifically, the presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
